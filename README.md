@@ -12,7 +12,7 @@ Create a program that creates a Spotify playlist for the user.
 - At least 1 GET request to the Spotify Web API
 - At least 1 POST request to the Spotify Web API
 
-### Set-Up
+### Computer Set-Up
 **Make sure to follow one of these before moving on:**  
 [Windows Setup](https://youtu.be/IBGMjyjzqR8)  
 [Mac Setup](https://youtu.be/qhtK6n1YP4c)  
@@ -22,7 +22,8 @@ Follow [this guide](https://code.visualstudio.com/blogs/2020/12/03/chromebook-ge
 Follow [this video](https://youtu.be/h-B0r6ll40A?si=y19CY9viGP5Puvva) to ensure that everything necessary is set up properly.  
   
 If you followed the steps above to enable and configure the Chromebook Linux environment, you should already have Python3, pip, and git installed and can follow the [Mac tutorial](https://youtu.be/qhtK6n1YP4c) to finish setting up this GitHub repository.  
-  
+
+### Challenge Set-Up
 You are provided with 2 template files to help you get started. The file app.py handles the authentication of the user account. You will notice that some variables need to be initialized \(there are comments to guide you!). It also provides a potential layout for your program with some Python syntax and Spotify Web API interaction examples. The other file, spot.py, defines an class to help you interact with the API.
 
 Feel free to change these around as you see fit!
