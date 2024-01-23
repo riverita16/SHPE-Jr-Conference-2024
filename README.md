@@ -13,6 +13,10 @@ Create a program that creates a Spotify playlist for the user.
 - At least 1 POST request to the Spotify Web API
 
 ### Set-Up
+**Make sure to follow one of these before moving on:**
+[Windows Setup](https://youtu.be/IBGMjyjzqR8)
+[Mac Setup](https://youtu.be/qhtK6n1YP4c)
+
 You are provided with 2 template files to help you get started. The file app.py handles the authentication of the user account. You will notice that some variables need to be initialized \(there are comments to guide you!). It also provides a potential layout for your program with some Python syntax and Spotify Web API interaction examples. The other file, spot.py, defines an class to help you interact with the API.
 
 Feel free to change these around as you see fit!
