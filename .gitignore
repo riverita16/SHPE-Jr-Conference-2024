@@ -2,3 +2,4 @@ __pycache__/
 /templates/__pycache__/
 /samples/
 /samples/*
+.DS_Store
