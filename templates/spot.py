@@ -2,6 +2,7 @@ import requests
 import uuid
 import urllib
 import base64
+import json
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 
@@ -77,9 +78,12 @@ class Spot:
             'Content-Type': 'application/json'
         }
 
-        response: requests.Response = requests.post(endpoint, headers=header, params=param)
+        response: requests.Response = requests.post(endpoint, headers=header, data=json.dumps(param))
         if response.status_code == 200:
             print('Success!')
-            return 200
+            return response.json()
+        elif response.status_code == 201:
+            print('Success!')
+            return response.json()
         else:
             raise Exception(f'Failed to add to library. Response: {response.text}')

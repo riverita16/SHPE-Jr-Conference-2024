@@ -1,2 +1,4 @@
 __pycache__/
 /templates/__pycache__/
+/samples/
+/samples/*
