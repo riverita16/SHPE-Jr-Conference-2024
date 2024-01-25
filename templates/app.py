@@ -34,6 +34,7 @@ def callback():
     print('\nAuthenticated and ready to go!\n')
     spot.close_browser()
 
+    '''You can add your program functions/other logic here'''
     search_ex()
 
     return 'Success'
@@ -71,5 +72,3 @@ Define more functions to help your implementation!
 if __name__ == '__main__':
     Timer(1, start).start()
     app.run(host=HOST_IP_ADDRESS, port=HOST_PORT, use_reloader=True, debug=True)
-
-    # search_ex()
