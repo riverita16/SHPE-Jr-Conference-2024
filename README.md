@@ -62,11 +62,11 @@ You will need to **POST**, or send data to the API to create the playlist. Note 
 
 Below are some useful links for this activity, and your fellow SHPEitos are here to help you through your implementation. **Ask questions!**
 
-***Some helpful endpoints...***
-[Get current user](https://developer.spotify.com/documentation/web-api/reference/get-current-users-profile)
-[Search for an item](https://developer.spotify.com/documentation/web-api/reference/search)
-[Create a playlist](https://developer.spotify.com/documentation/web-api/reference/create-playlist)
-[Add songs to a playlist](https://developer.spotify.com/documentation/web-api/reference/add-tracks-to-playlist)
+***Some helpful endpoints...***  
+- [Get current user](https://developer.spotify.com/documentation/web-api/reference/get-current-users-profile)  
+- [Search for an item](https://developer.spotify.com/documentation/web-api/reference/search)  
+- [Create a playlist](https://developer.spotify.com/documentation/web-api/reference/create-playlist)  
+- [Add songs to a playlist](https://developer.spotify.com/documentation/web-api/reference/add-tracks-to-playlist)  
 
 ### Links
 - [Know the Basics](https://www.w3schools.com/python/)
