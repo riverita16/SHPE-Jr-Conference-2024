@@ -1,4 +1,6 @@
 # SHPE Jr Conference CS Challenge
+This repository was created as part of the Engineering Challenge activity during the 2024 SHPE Jr Coference at the University of Florida. It's resources and materials were targetted toward high schools students interested in pursuing a career in Computer Science and Engineering.
+
 ### Overview
 You will be making a **Python** application that interacts with a **Spotify** account!
 
